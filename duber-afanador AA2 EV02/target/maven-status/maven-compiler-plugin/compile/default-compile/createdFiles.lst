@@ -1,0 +1,5 @@
+com\example\marketplace\servlet\ProductActionServlet.class
+com\example\marketplace\dao\ProductDAO.class
+com\example\marketplace\model\Product.class
+com\example\marketplace\servlet\ProductListServlet.class
+com\example\marketplace\servlet\ProductFormServlet.class
